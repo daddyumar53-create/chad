@@ -1,5 +1,5 @@
 // ============================================
-//Fomo TRADING BOT - Complete Implementation
+//Moby TRADING BOT - Complete Implementation
 // with Debug Logging & Professional Messages 
 // ============================================
 import { Telegraf, Markup } from 'telegraf';
